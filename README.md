@@ -1,25 +1,33 @@
-# HR Analytics using Pandas
+# HR Analytics with Pandas
 
 ## Overview
-This is a beginner-level data analytics project focused on exploring employee data to extract insights using Python and Pandas.
+Exploratory data analysis on employee data using Python and Pandas to answer practical HR-related questions around salary, performance, and gender distribution.
 
 ## Dataset
-The dataset contains information about employees including gender, department, salary, location, and performance ratings.
+The dataset contains employee-level information such as:
+- Gender  
+- Department  
+- Salary  
+- Location  
+- Performance ratings  
 
-Source:
+**Data source:**  
 https://raw.githubusercontent.com/arora123/Data/master/emp-data.csv
 
 ## Objectives
+The main objectives of this analysis are to:
 - Analyze gender distribution across the organization
-- Compare average salary by department and location
-- Analyze performance ratings
-- Compute gender pay gap by department and location
+- Compare average salaries by department and location
+- Examine performance ratings across different groups
+- Compute and analyze gender pay gaps by department and location
+- Practice exploratory data analysis using Pandas
 
 ## Tools Used
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 
 ## Notes
 This project was completed as part of a course and represents my understanding of data analytics at the time.
