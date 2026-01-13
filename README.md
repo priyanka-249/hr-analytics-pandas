@@ -22,4 +22,4 @@ https://raw.githubusercontent.com/arora123/Data/master/emp-data.csv
 - Matplotlib / Seaborn
 
 ## Notes
-This project was completed as part of a college course and represents my understanding of data analytics at the time.
+This project was completed as part of a course and represents my understanding of data analytics at the time.
